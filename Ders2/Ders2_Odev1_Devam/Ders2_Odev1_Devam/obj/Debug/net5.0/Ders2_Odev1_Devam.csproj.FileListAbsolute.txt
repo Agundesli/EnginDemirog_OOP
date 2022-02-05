@@ -1,0 +1,16 @@
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\bin\Debug\net5.0\Ders2_Odev1_Devam.exe
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\bin\Debug\net5.0\Ders2_Odev1_Devam.deps.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\bin\Debug\net5.0\Ders2_Odev1_Devam.runtimeconfig.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\bin\Debug\net5.0\Ders2_Odev1_Devam.runtimeconfig.dev.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\bin\Debug\net5.0\Ders2_Odev1_Devam.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\bin\Debug\net5.0\ref\Ders2_Odev1_Devam.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\bin\Debug\net5.0\Ders2_Odev1_Devam.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\obj\Debug\net5.0\Ders2_Odev1_Devam.csproj.AssemblyReference.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\obj\Debug\net5.0\Ders2_Odev1_Devam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\obj\Debug\net5.0\Ders2_Odev1_Devam.AssemblyInfoInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\obj\Debug\net5.0\Ders2_Odev1_Devam.AssemblyInfo.cs
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\obj\Debug\net5.0\Ders2_Odev1_Devam.csproj.CoreCompileInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\obj\Debug\net5.0\Ders2_Odev1_Devam.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\obj\Debug\net5.0\ref\Ders2_Odev1_Devam.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\obj\Debug\net5.0\Ders2_Odev1_Devam.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Ders2_Odev1_Devam\Ders2_Odev1_Devam\obj\Debug\net5.0\Ders2_Odev1_Devam.genruntimeconfig.cache

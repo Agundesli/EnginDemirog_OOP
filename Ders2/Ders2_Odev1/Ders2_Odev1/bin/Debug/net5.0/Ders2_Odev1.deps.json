@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders2_Odev1/1.0.0": {
+        "runtime": {
+          "Ders2_Odev1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders2_Odev1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
