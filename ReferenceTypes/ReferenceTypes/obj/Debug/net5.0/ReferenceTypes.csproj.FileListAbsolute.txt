@@ -1,0 +1,16 @@
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\bin\Debug\net5.0\ReferenceTypes.exe
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\bin\Debug\net5.0\ReferenceTypes.deps.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\bin\Debug\net5.0\ReferenceTypes.runtimeconfig.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\bin\Debug\net5.0\ReferenceTypes.runtimeconfig.dev.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\bin\Debug\net5.0\ReferenceTypes.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\bin\Debug\net5.0\ref\ReferenceTypes.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\bin\Debug\net5.0\ReferenceTypes.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\obj\Debug\net5.0\ReferenceTypes.csproj.AssemblyReference.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\obj\Debug\net5.0\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\obj\Debug\net5.0\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\obj\Debug\net5.0\ReferenceTypes.AssemblyInfo.cs
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\obj\Debug\net5.0\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\obj\Debug\net5.0\ReferenceTypes.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\obj\Debug\net5.0\ref\ReferenceTypes.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\obj\Debug\net5.0\ReferenceTypes.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\ReferenceTypes\ReferenceTypes\obj\Debug\net5.0\ReferenceTypes.genruntimeconfig.cache
