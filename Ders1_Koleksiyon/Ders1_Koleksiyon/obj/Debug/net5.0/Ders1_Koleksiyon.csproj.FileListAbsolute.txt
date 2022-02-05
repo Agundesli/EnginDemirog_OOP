@@ -1,0 +1,16 @@
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\bin\Debug\net5.0\Ders1_Koleksiyon.exe
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\bin\Debug\net5.0\Ders1_Koleksiyon.deps.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\bin\Debug\net5.0\Ders1_Koleksiyon.runtimeconfig.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\bin\Debug\net5.0\Ders1_Koleksiyon.runtimeconfig.dev.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\bin\Debug\net5.0\Ders1_Koleksiyon.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\bin\Debug\net5.0\ref\Ders1_Koleksiyon.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\bin\Debug\net5.0\Ders1_Koleksiyon.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\obj\Debug\net5.0\Ders1_Koleksiyon.csproj.AssemblyReference.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\obj\Debug\net5.0\Ders1_Koleksiyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\obj\Debug\net5.0\Ders1_Koleksiyon.AssemblyInfoInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\obj\Debug\net5.0\Ders1_Koleksiyon.AssemblyInfo.cs
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\obj\Debug\net5.0\Ders1_Koleksiyon.csproj.CoreCompileInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\obj\Debug\net5.0\Ders1_Koleksiyon.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\obj\Debug\net5.0\ref\Ders1_Koleksiyon.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\obj\Debug\net5.0\Ders1_Koleksiyon.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Koleksiyon\Ders1_Koleksiyon\obj\Debug\net5.0\Ders1_Koleksiyon.genruntimeconfig.cache
