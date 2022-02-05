@@ -1,0 +1,14 @@
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\bin\Debug\netcoreapp3.1\Uygulama1.exe
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\bin\Debug\netcoreapp3.1\Uygulama1.deps.json
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\bin\Debug\netcoreapp3.1\Uygulama1.runtimeconfig.json
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\bin\Debug\netcoreapp3.1\Uygulama1.runtimeconfig.dev.json
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\bin\Debug\netcoreapp3.1\Uygulama1.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\bin\Debug\netcoreapp3.1\Uygulama1.pdb
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\obj\Debug\netcoreapp3.1\Uygulama1.csproj.AssemblyReference.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\obj\Debug\netcoreapp3.1\Uygulama1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\obj\Debug\netcoreapp3.1\Uygulama1.AssemblyInfoInputs.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\obj\Debug\netcoreapp3.1\Uygulama1.AssemblyInfo.cs
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\obj\Debug\netcoreapp3.1\Uygulama1.csproj.CoreCompileInputs.cache
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\obj\Debug\netcoreapp3.1\Uygulama1.dll
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\obj\Debug\netcoreapp3.1\Uygulama1.pdb
+C:\Users\303ABDULLAH_SABAH\Documents\GitHub\Engin_Hoca_Proje\Uygulama1\Uygulama1\obj\Debug\netcoreapp3.1\Uygulama1.genruntimeconfig.cache
