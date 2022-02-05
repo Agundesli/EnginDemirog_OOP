@@ -1,0 +1,16 @@
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\bin\Debug\net5.0\Coklu_Implementasyon.exe
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\bin\Debug\net5.0\Coklu_Implementasyon.deps.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\bin\Debug\net5.0\Coklu_Implementasyon.runtimeconfig.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\bin\Debug\net5.0\Coklu_Implementasyon.runtimeconfig.dev.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\bin\Debug\net5.0\Coklu_Implementasyon.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\bin\Debug\net5.0\ref\Coklu_Implementasyon.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\bin\Debug\net5.0\Coklu_Implementasyon.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\obj\Debug\net5.0\Coklu_Implementasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\obj\Debug\net5.0\Coklu_Implementasyon.AssemblyInfoInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\obj\Debug\net5.0\Coklu_Implementasyon.AssemblyInfo.cs
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\obj\Debug\net5.0\Coklu_Implementasyon.csproj.CoreCompileInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\obj\Debug\net5.0\Coklu_Implementasyon.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\obj\Debug\net5.0\ref\Coklu_Implementasyon.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\obj\Debug\net5.0\Coklu_Implementasyon.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\obj\Debug\net5.0\Coklu_Implementasyon.genruntimeconfig.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Coklu_Implementasyon\Coklu_Implementasyon\obj\Debug\net5.0\Coklu_Implementasyon.csproj.AssemblyReference.cache
