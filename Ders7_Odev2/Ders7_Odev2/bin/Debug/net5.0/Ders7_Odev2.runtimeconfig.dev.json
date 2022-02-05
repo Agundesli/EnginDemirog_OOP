@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\A_GUNDESLI\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\A_GUNDESLI\\.nuget\\packages"
+    ]
+  }
+=======
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\A_GUNDESLI\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\A_GUNDESLI\\.nuget\\packages"
+    ]
+  }
+>>>>>>> f4b0bdcc5788429c9acae95480d667bbed9a1c89
+=======
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\A_GUNDESLI\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\A_GUNDESLI\\.nuget\\packages"
+    ]
+  }
+>>>>>>> f4b0bdcc5788429c9acae95480d667bbed9a1c89
+=======
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\A_GUNDESLI\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\A_GUNDESLI\\.nuget\\packages"
+    ]
+  }
+>>>>>>> f4b0bdcc5788429c9acae95480d667bbed9a1c89
+}

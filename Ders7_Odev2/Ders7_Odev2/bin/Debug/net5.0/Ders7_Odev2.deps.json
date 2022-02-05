@@ -1,0 +1,98 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders7_Odev2/1.0.0": {
+        "runtime": {
+          "Ders7_Odev2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders7_Odev2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders7_Odev2/1.0.0": {
+        "runtime": {
+          "Ders7_Odev2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders7_Odev2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> f4b0bdcc5788429c9acae95480d667bbed9a1c89
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders7_Odev2/1.0.0": {
+        "runtime": {
+          "Ders7_Odev2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders7_Odev2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> f4b0bdcc5788429c9acae95480d667bbed9a1c89
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ders7_Odev2/1.0.0": {
+        "runtime": {
+          "Ders7_Odev2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders7_Odev2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> f4b0bdcc5788429c9acae95480d667bbed9a1c89
+}

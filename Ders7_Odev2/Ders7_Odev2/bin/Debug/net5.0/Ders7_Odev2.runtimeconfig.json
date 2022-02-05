@@ -1,0 +1,42 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "5.0.0"
+    }
+  }
+=======
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "5.0.0"
+    }
+  }
+>>>>>>> f4b0bdcc5788429c9acae95480d667bbed9a1c89
+=======
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "5.0.0"
+    }
+  }
+>>>>>>> f4b0bdcc5788429c9acae95480d667bbed9a1c89
+=======
+{
+  "runtimeOptions": {
+    "tfm": "net5.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "5.0.0"
+    }
+  }
+>>>>>>> f4b0bdcc5788429c9acae95480d667bbed9a1c89
+}
