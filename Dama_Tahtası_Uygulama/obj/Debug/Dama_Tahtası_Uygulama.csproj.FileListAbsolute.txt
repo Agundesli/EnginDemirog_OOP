@@ -1,0 +1,10 @@
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Dama_Tahtası_Uygulama\bin\Debug\Dama_Tahtası_Uygulama.exe.config
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Dama_Tahtası_Uygulama\bin\Debug\Dama_Tahtası_Uygulama.exe
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Dama_Tahtası_Uygulama\bin\Debug\Dama_Tahtası_Uygulama.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Dama_Tahtası_Uygulama\obj\Debug\Dama_Tahtası_Uygulama.csproj.AssemblyReference.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Dama_Tahtası_Uygulama\obj\Debug\Dama_Tahtası_Uygulama.Form1.resources
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Dama_Tahtası_Uygulama\obj\Debug\Dama_Tahtası_Uygulama.Properties.Resources.resources
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Dama_Tahtası_Uygulama\obj\Debug\Dama_Tahtası_Uygulama.csproj.GenerateResource.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Dama_Tahtası_Uygulama\obj\Debug\Dama_Tahtası_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Dama_Tahtası_Uygulama\obj\Debug\Dama_Tahtası_Uygulama.exe
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca_Proje\Dama_Tahtası_Uygulama\obj\Debug\Dama_Tahtası_Uygulama.pdb
