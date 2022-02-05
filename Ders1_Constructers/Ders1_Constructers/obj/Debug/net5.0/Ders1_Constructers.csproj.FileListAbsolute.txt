@@ -1,0 +1,16 @@
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\bin\Debug\net5.0\Ders1_Constructers.exe
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\bin\Debug\net5.0\Ders1_Constructers.deps.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\bin\Debug\net5.0\Ders1_Constructers.runtimeconfig.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\bin\Debug\net5.0\Ders1_Constructers.runtimeconfig.dev.json
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\bin\Debug\net5.0\Ders1_Constructers.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\bin\Debug\net5.0\ref\Ders1_Constructers.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\bin\Debug\net5.0\Ders1_Constructers.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\obj\Debug\net5.0\Ders1_Constructers.csproj.AssemblyReference.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\obj\Debug\net5.0\Ders1_Constructers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\obj\Debug\net5.0\Ders1_Constructers.AssemblyInfoInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\obj\Debug\net5.0\Ders1_Constructers.AssemblyInfo.cs
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\obj\Debug\net5.0\Ders1_Constructers.csproj.CoreCompileInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\obj\Debug\net5.0\Ders1_Constructers.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\obj\Debug\net5.0\ref\Ders1_Constructers.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\obj\Debug\net5.0\Ders1_Constructers.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\Engin_Hoca\Ders1_Constructers\Ders1_Constructers\obj\Debug\net5.0\Ders1_Constructers.genruntimeconfig.cache
