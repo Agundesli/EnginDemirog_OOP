@@ -21,4 +21,12 @@ namespace Ders8_Odev2
         public int CategoryId { get; set; }
         public string CategoryName { get; set; }
     }
+    public class Join
+    {
+        //Data Transfer Object
+        public int ProductId { get; set; }
+        public string CategoryName { get; set; }
+        public string ProductName { get; set; }
+        public decimal UnitPrice { get; set; }
+    }
 }
