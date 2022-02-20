@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\FinalProject\\FinalProject\\Ders11_Reflection\\Ders11_Reflection\\Ders11_Reflection.csproj": {}
+    "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\EnginDemirog_OOP\\Ders11_Reflection\\Ders11_Reflection\\Ders11_Reflection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\FinalProject\\FinalProject\\Ders11_Reflection\\Ders11_Reflection\\Ders11_Reflection.csproj": {
+    "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\EnginDemirog_OOP\\Ders11_Reflection\\Ders11_Reflection\\Ders11_Reflection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\FinalProject\\FinalProject\\Ders11_Reflection\\Ders11_Reflection\\Ders11_Reflection.csproj",
+        "projectUniqueName": "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\EnginDemirog_OOP\\Ders11_Reflection\\Ders11_Reflection\\Ders11_Reflection.csproj",
         "projectName": "Ders11_Reflection",
-        "projectPath": "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\FinalProject\\FinalProject\\Ders11_Reflection\\Ders11_Reflection\\Ders11_Reflection.csproj",
+        "projectPath": "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\EnginDemirog_OOP\\Ders11_Reflection\\Ders11_Reflection\\Ders11_Reflection.csproj",
         "packagesPath": "C:\\Users\\A_GUNDESLI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\FinalProject\\FinalProject\\Ders11_Reflection\\Ders11_Reflection\\obj\\",
+        "outputPath": "C:\\Users\\A_GUNDESLI\\Documents\\GitHub\\EnginDemirog_OOP\\Ders11_Reflection\\Ders11_Reflection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A_GUNDESLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
