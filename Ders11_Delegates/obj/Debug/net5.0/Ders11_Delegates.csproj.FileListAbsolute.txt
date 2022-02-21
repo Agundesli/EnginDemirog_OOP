@@ -1,0 +1,16 @@
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\bin\Debug\net5.0\Ders11_Delegates.exe
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\bin\Debug\net5.0\Ders11_Delegates.deps.json
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\bin\Debug\net5.0\Ders11_Delegates.runtimeconfig.json
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\bin\Debug\net5.0\Ders11_Delegates.runtimeconfig.dev.json
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\bin\Debug\net5.0\Ders11_Delegates.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\bin\Debug\net5.0\ref\Ders11_Delegates.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\bin\Debug\net5.0\Ders11_Delegates.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\obj\Debug\net5.0\Ders11_Delegates.csproj.AssemblyReference.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\obj\Debug\net5.0\Ders11_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\obj\Debug\net5.0\Ders11_Delegates.AssemblyInfoInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\obj\Debug\net5.0\Ders11_Delegates.AssemblyInfo.cs
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\obj\Debug\net5.0\Ders11_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\obj\Debug\net5.0\Ders11_Delegates.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\obj\Debug\net5.0\ref\Ders11_Delegates.dll
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\obj\Debug\net5.0\Ders11_Delegates.pdb
+C:\Users\A_GUNDESLI\Documents\GitHub\EnginDemirog_OOP\Ders11_Delegates\obj\Debug\net5.0\Ders11_Delegates.genruntimeconfig.cache
