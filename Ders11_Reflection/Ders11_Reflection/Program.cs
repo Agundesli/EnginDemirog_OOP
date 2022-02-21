@@ -35,8 +35,24 @@ namespace Ders11_Reflection
             //Bazen mevcut metotları bilmeyebiliriz. Yani çalışma sırasında hangi metodun kullanılacağı belli olabilecek
             //dinamik durumlar da vardır. Reflection ile bir Instance oluşturduğumuzda onun metodunuda çalıştırabiliyoruz.
             var instance = Activator.CreateInstance(tip, 5, 10);
-            MethodInfo methodInfo = instance.GetType().GetMethod("Topla2");
-            Console.WriteLine(methodInfo.Invoke(instance, null));
+            MethodInfo methodInfo = instance.GetType().GetMethod("Topla2");//GetMethod ile istediğimiz metoda ulaşıyoruz       
+            Console.WriteLine(methodInfo.Invoke(instance, null));//İnvoke ile de onu çalıştırabiliyoruz
+
+            Console.WriteLine("**************Metot,Nesne vs özelleiklerine ulaşma**************************************");
+            var metodlar = tip.GetMethods();
+            foreach (var info in metodlar)
+            {
+                Console.WriteLine("Metod İsmi: "+info.Name);
+
+                foreach (var parametreinfo in info.GetParameters())
+                {
+                    Console.WriteLine("Parametre ismi: "+parametreinfo.Name);
+                }
+                foreach (var attribute in info.GetCustomAttributes())
+                {
+                    Console.WriteLine("Attribute ismi: "+ attribute.GetType().Name);
+                }
+            }
         }
     }
     public class DortIslem
@@ -65,9 +81,17 @@ namespace Ders11_Reflection
         {
             return _sayi1+_sayi2;
         }
+        [MetodName("Carpma")]
         public int Carp2()
         {
             return _sayi1 * _sayi2;
+        }
+    }
+    class MetodNameAttribute:Attribute
+    {
+        public MetodNameAttribute(string name)
+        {
+
         }
     }
 }
